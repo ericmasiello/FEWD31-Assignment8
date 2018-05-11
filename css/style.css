@@ -473,7 +473,7 @@ input[type="text"]#phone {
   font-size: 25px;
 }
 
-input[type="text"]#password {
+input[type="password"]#password {
   margin-left: 243px;
   border-top: 0;
   border-left: 0;
